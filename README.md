@@ -5,5 +5,5 @@ Snowflake Cortex is currently in Private Preview and available on selected accou
 
 [Streamlit in Snowflake](https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit) is currently available on Snowflake accounts in AWS commercial regions. 
 
-The demo uses the base Tasty Bytes dataset. Setup instructions are available [here](https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html)
+The demo uses the base Tasty Bytes dataset. Setup instructions are available [here](https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html).
 
