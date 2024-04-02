@@ -26,7 +26,7 @@ def get_data_insights(prompt, data):
     else:
         data_string = data.to_pandas().to_string(index=False)
 
-    prompt = f"""select snowflake.ml.complete(
+    prompt = f"""select snowflake.cortex.complete(
                                 '{completion_model}', 
                                 $$
                                     {prompt_prefix}
